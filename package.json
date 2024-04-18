@@ -1,0 +1,22 @@
+{
+  "name": "hb15-currency-converter",
+  "version": "1.0.0",
+  "description": "Made a converter app by using Typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Harmainbashir",
+  "license": "ISC",
+  "dependencies": {
+    "hb15-atm": "^1.0.0",
+    "hb15-currency-converter": "^1.0.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
